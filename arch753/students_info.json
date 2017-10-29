@@ -1,0 +1,509 @@
+[
+    {
+        "family_name": "aguilar", 
+        "email": "aguilars@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/aguilar_samantha.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/aguilar_samantha.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/aguilar_samantha.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/aguilar_samantha.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/aguilar_samantha.png"
+            }
+        ], 
+        "id": "0", 
+        "name": "samantha"
+    }, 
+    {
+        "family_name": "barria", 
+        "email": "jmiguel@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/barria_jose.png"
+            }
+        ], 
+        "id": "1", 
+        "name": "jose"
+    }, 
+    {
+        "family_name": "cao", 
+        "email": "caofan@design.upenn.edu", 
+        "submissions": [], 
+        "id": "2", 
+        "name": "fan"
+    }, 
+    {
+        "family_name": "castro", 
+        "email": "dycastro@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": null
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/castro_dyan.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/castro_dyan.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/castro_dyan.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/castro_dyan.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/castro_dyan.png"
+            }
+        ], 
+        "id": "3", 
+        "name": "dyan"
+    }, 
+    {
+        "family_name": "dhanuka", 
+        "email": "mansid@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "annual-daylight", 
+                "name": "Annual daylight", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/dhanuka_mansi.png"
+            }
+        ], 
+        "id": "4", 
+        "name": "mansi"
+    }, 
+    {
+        "family_name": "fan", 
+        "email": "fandi1@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/fan_di.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/fan_di.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/fan_di.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/fan_di.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/fan_di.png"
+            }
+        ], 
+        "id": "5", 
+        "name": "di"
+    }, 
+    {
+        "family_name": "feng", 
+        "email": "taifeng@design.upenn.edu", 
+        "submissions": [], 
+        "id": "6", 
+        "name": "tai"
+    }, 
+    {
+        "family_name": "hah", 
+        "email": "esthah@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/hah_esther.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/hah_esther.png"
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/hah_esther.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/hah_esther.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/hah_esther.png"
+            }
+        ], 
+        "id": "7", 
+        "name": "esther"
+    }, 
+    {
+        "family_name": "hu", 
+        "email": "mingyueh@design.upenn.edu", 
+        "submissions": [], 
+        "id": "8", 
+        "name": "mingyue"
+    }, 
+    {
+        "family_name": "jin", 
+        "email": "jiemj@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/jin_jieming.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/jin_jieming.png"
+            }
+        ], 
+        "id": "9", 
+        "name": "jieming"
+    }, 
+    {
+        "family_name": "jung", 
+        "email": "dawoonj@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/jung_dawoon.png"
+            }
+        ], 
+        "id": "10", 
+        "name": "dawoon"
+    }, 
+    {
+        "family_name": "kamath", 
+        "email": "ayodh@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": null
+            }
+        ], 
+        "id": "11", 
+        "name": "ayodh"
+    }, 
+    {
+        "family_name": "kothari", 
+        "email": "bhaktik@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }, 
+            {
+                "folder": "annual-daylight", 
+                "name": "Annual daylight", 
+                "thumbnail": null
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/kothari_bhakti.png"
+            }
+        ], 
+        "id": "12", 
+        "name": "bhakti"
+    }, 
+    {
+        "family_name": "liu", 
+        "email": "ljiyuan@design.upenn.edu", 
+        "submissions": [], 
+        "id": "13", 
+        "name": "jiyuan"
+    }, 
+    {
+        "family_name": "liu", 
+        "email": "lxiaoran@design.upenn.edu", 
+        "submissions": [], 
+        "id": "14", 
+        "name": "xiaoran"
+    }, 
+    {
+        "family_name": "sajjadi", 
+        "email": "mitsa@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "weather-data-analysis-II", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "daylighting-II", 
+                "name": "Daylighting II", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "annual-daylight", 
+                "name": "Annual daylight", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/sajjadi_mitra.png"
+            }
+        ], 
+        "id": "15", 
+        "name": "mitra"
+    }, 
+    {
+        "family_name": "sanjaya", 
+        "email": "nsanjaya@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/sanjaya_natasha.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/sanjaya_natasha.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/sanjaya_natasha.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/sanjaya_natasha.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/sanjaya_natasha.png"
+            }
+        ], 
+        "id": "16", 
+        "name": "natasha"
+    }, 
+    {
+        "family_name": "tan", 
+        "email": "shengji@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/tan_shengji.png"
+            }
+        ], 
+        "id": "17", 
+        "name": "shengji"
+    }, 
+    {
+        "family_name": "siram", 
+        "email": "nsiram@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "dream-room", 
+                "name": "Dream room", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }, 
+            {
+                "folder": "weather-data-analysis", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }, 
+            {
+                "folder": "meyerson-hall-canopy", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }, 
+            {
+                "folder": "daylighting-I", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }, 
+            {
+                "folder": "energy-simulation", 
+                "name": "Energy simulation", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }, 
+            {
+                "folder": "final-project", 
+                "name": "Final project", 
+                "thumbnail": "thumbnails/siram_neeharika.png"
+            }
+        ], 
+        "id": "18", 
+        "name": "neeharika"
+    }
+]
