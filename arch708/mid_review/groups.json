@@ -1,0 +1,38 @@
+[
+  {
+    "name": "team_chicago",
+    "members": [
+	     {"id":"10", "name":"shengliang", "family_name":"rong", "email":"srong@design.upenn.edu"},
+       {"id":"12", "name":"yuntian", "family_name":"wan", "email":"wyuntian@design.upenn.edu"}
+    ]
+  },
+  {
+    "name": "team_miami",
+    "members": [
+      {"id":"4", "name":"ksenia", "family_name":"knyazkina", "email":"kksenia@design.upenn.edu"},
+      {"id":"11", "name":"janki", "family_name":"vyas", "email":"jankiv@design.upenn.edu"}
+    ]
+  },
+  {
+    "name": "team_neworleans",
+    "members": [
+      {"id":"5", "name":"shin-yi", "family_name":"kwan", "email":"kwans@design.upenn.edu"},
+      {"id":"6", "name":"jee-eun", "family_name":"lee", "email":"leejee@design.upenn.edu"},
+      {"id":"9", "name":"mingbo", "family_name":"peng", "email":"mpen@design.upenn.edu"}
+    ]
+  },
+  {
+    "name": "team_phoenix",
+    "members": [
+      {"id":"3", "name":"ashish", "family_name":"khemchandani", "email":"ashishkh@design.upenn.edu"},
+      {"id":"7", "name":"pegah", "family_name":"mahthur", "email":"pegahmathur@gmail.com"}
+    ]
+  },
+  {
+    "name": "team_seattle",
+    "members": [
+      {"id":"1", "name":"niccolo", "family_name":"benghi", "email":"nbenghi@design.upenn.edu"},
+      {"id":"8", "name":"evan", "family_name":"oskierko-jeznacki", "email":"eosk@design.upenn.edu"}
+    ]
+  }
+]

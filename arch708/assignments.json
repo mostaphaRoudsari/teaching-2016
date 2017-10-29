@@ -1,0 +1,289 @@
+[
+  {
+    "reload": false, 
+    "folder": "mid_review", 
+    "submissions": [
+      {
+        "files": [
+          "team_chicago_midreview.pdf"
+        ], 
+        "team_name": "team_chicago", 
+        "thumbnail": "thumbnails/team_chicago_midreview.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "10", 
+            "name": "shengliang"
+          }, 
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "12", 
+            "name": "yuntian"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_miami_midterm_presentation.pdf", 
+          "team_miami_midterm_summary.pdf"
+        ], 
+        "team_name": "team_miami", 
+        "thumbnail": "thumbnails/team_miami_midterm_presentation.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "4", 
+            "name": "ksenia"
+          }, 
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "11", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_neworleans_final.pdf", 
+          "team_neworleans_mid_poster.pdf"
+        ], 
+        "team_name": "team_neworleans", 
+        "thumbnail": "thumbnails/team_neworleans_final.png", 
+        "team": [
+          {
+            "family_name": "kwan", 
+            "email": "kwans@design.upenn.edu", 
+            "id": "5", 
+            "name": "shin-yi"
+          }, 
+          {
+            "family_name": "lee", 
+            "email": "leejee@design.upenn.edu", 
+            "id": "6", 
+            "name": "jee-eun"
+          }, 
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "9", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_phoenix_presentation.pdf"
+        ], 
+        "team_name": "team_phoenix", 
+        "thumbnail": "thumbnails/team_phoenix_presentation.png", 
+        "team": [
+          {
+            "family_name": "khemchandani", 
+            "email": "ashishkh@design.upenn.edu", 
+            "id": "3", 
+            "name": "ashish"
+          }, 
+          {
+            "family_name": "mahthur", 
+            "email": "pegahmathur@gmail.com", 
+            "id": "7", 
+            "name": "pegah"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_seattle_midterm.pdf"
+        ], 
+        "team_name": "team_seattle", 
+        "thumbnail": "thumbnails/team_seattle_midterm.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "1", 
+            "name": "niccolo"
+          }, 
+          {
+            "family_name": "oskierko-jeznacki", 
+            "email": "eosk@design.upenn.edu", 
+            "id": "8", 
+            "name": "evan"
+          }
+        ]
+      }
+    ], 
+    "name": "Mid Review", 
+    "is_group_project": true
+  }, 
+  {
+    "reload": false, 
+    "folder": "final_project", 
+    "submissions": [
+      {
+        "files": [
+          "team_chicago_board.pdf", 
+          "team_chicago_booklet.pdf", 
+          "team_chicago_presentation.pdf", 
+          "team_chicago_render_01_final.jpg", 
+          "team_chicago_render_02_final.jpg", 
+          "team_chicago_render_03_final.jpg"
+        ], 
+        "team_name": "team_chicago", 
+        "thumbnail": "thumbnails/team_chicago_board.png", 
+        "team": [
+          {
+            "family_name": "rong", 
+            "email": "srong@design.upenn.edu", 
+            "id": "10", 
+            "name": "shengliang"
+          }, 
+          {
+            "family_name": "wan", 
+            "email": "wyuntian@design.upenn.edu", 
+            "id": "12", 
+            "name": "yuntian"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_miami_final_booklet.pdf", 
+          "team_miami_final_presentation.pdf", 
+          "team_miami_final_summary_board.pdf"
+        ], 
+        "team_name": "team_miami", 
+        "thumbnail": "thumbnails/team_miami_final_summary_board.png", 
+        "team": [
+          {
+            "family_name": "knyazkina", 
+            "email": "kksenia@design.upenn.edu", 
+            "id": "4", 
+            "name": "ksenia"
+          }, 
+          {
+            "family_name": "vyas", 
+            "email": "jankiv@design.upenn.edu", 
+            "id": "11", 
+            "name": "janki"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_neworleans_balcony_mb.jpg", 
+          "team_neworleans_balcony_mb_2.jpg", 
+          "team_neworleans_citybalcony.png", 
+          "team_neworleans_final_report.pdf", 
+          "team_neworleans_final_studio_mj2.pdf", 
+          "team_neworleans_mebd_board.pdf"
+        ], 
+        "team_name": "team_neworleans", 
+        "thumbnail": "thumbnails/team_neworleans_mebd_board.png", 
+        "team": [
+          {
+            "family_name": "kwan", 
+            "email": "kwans@design.upenn.edu", 
+            "id": "5", 
+            "name": "shin-yi"
+          }, 
+          {
+            "family_name": "lee", 
+            "email": "leejee@design.upenn.edu", 
+            "id": "6", 
+            "name": "jee-eun"
+          }, 
+          {
+            "family_name": "peng", 
+            "email": "mpen@design.upenn.edu", 
+            "id": "9", 
+            "name": "mingbo"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_phoenix_final_brochure.pdf", 
+          "team_phoenix_outdoor_rendering.jpeg", 
+          "team_phoenix_presentation.pdf", 
+          "team_phoenix_render_inside.jpeg"
+        ], 
+        "team_name": "team_phoenix", 
+        "thumbnail": "thumbnails/team_phoenix_final_brochure.png", 
+        "team": [
+          {
+            "family_name": "khemchandani", 
+            "email": "ashishkh@design.upenn.edu", 
+            "id": "3", 
+            "name": "ashish"
+          }, 
+          {
+            "family_name": "mahthur", 
+            "email": "pegahmathur@gmail.com", 
+            "id": "7", 
+            "name": "pegah"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_seattle_final_board.pdf", 
+          "team_seattle_final_booklet.pdf", 
+          "team_seattle_final_presentation.pdf"
+        ], 
+        "team_name": "team_seattle", 
+        "thumbnail": "thumbnails/team_seattle_final_board.png", 
+        "team": [
+          {
+            "family_name": "benghi", 
+            "email": "nbenghi@design.upenn.edu", 
+            "id": "1", 
+            "name": "niccolo"
+          }, 
+          {
+            "family_name": "oskierko-jeznacki", 
+            "email": "eosk@design.upenn.edu", 
+            "id": "8", 
+            "name": "evan"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_tempe_01.jpg", 
+          "team_tempe_02.jpg", 
+          "team_tempe_03.jpg", 
+          "team_tempe_04.jpg", 
+          "team_tempe_05.jpg", 
+          "team_tempe_06.jpg", 
+          "team_tempe_07.jpg", 
+          "team_tempe_board.pdf", 
+          "team_tempe_presentation.pdf", 
+          "team_tempe_report.pdf"
+        ], 
+        "team_name": "team_tempe", 
+        "thumbnail": "thumbnails/team_tempe_board.png", 
+        "team": [
+          {
+            "family_name": "albakr", 
+            "email": "malbakr@design.upenn.edu", 
+            "id": "0", 
+            "name": "majed"
+          }, 
+          {
+            "family_name": "bhatti", 
+            "email": "munazza@design.upenn.edu", 
+            "id": "2", 
+            "name": "munazza"
+          }
+        ]
+      }
+    ], 
+    "name": "Final Project", 
+    "is_group_project": true
+  }
+]
